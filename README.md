@@ -2,6 +2,10 @@
 
 Hackathon-ready platform that estimates emissions from common SME activities (electricity, travel, logistics) and generates a **reduction roadmap with ROI** and **tracking**, with a full **MERN** backend for persistence.
 
+## 🌍 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://sparkling-brigadeiros-265737.netlify.app/)
+
 ## Features
 
 - **Footprint estimation** — Electricity, gas, car/van/flight/train, freight (road/sea/air) with 2024-style emission factors
